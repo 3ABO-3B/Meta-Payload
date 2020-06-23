@@ -1,0 +1,22 @@
+							This Script By 3ABO
+			This script can help you and it's easy to use to creat payload by msfvenom
+			   you can edit it , it's not crypted and you can also see how its work.
+							
+							
+
+
+				#requirement:
+				  python 3
+			     meta-sploit-framework
+			 #how to install and use it :	 
+		 1)copy link of this script 
+		 2)go to terminal and write
+		       git clone +url
+		 3)waiting to download it
+		 4)cd Meta-Payload
+		 5)python3 meta-payload.py
+		  6)select what do u want
+		  7)write your ip (you can found it in ifconfig)
+		  8)select port
+		  9)select the name of your payload (dont add .exe to name of payload or somthing like that)
+		 10)if you select the 3rd choise (just add format in the end without '.' like .rar just enter rar or another format)
